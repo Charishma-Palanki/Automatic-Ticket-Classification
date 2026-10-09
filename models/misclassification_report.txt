@@ -1,0 +1,25 @@
+MOST COMMON MISCLASSIFICATIONS
+===========================================================================
+
+Total incorrect predictions: 1355
+
+Product Support --> Technical Support : 167 errors
+Technical Support --> Product Support : 134 errors
+IT Support --> Technical Support : 110 errors
+Customer Service --> Technical Support : 100 errors
+Technical Support --> IT Support : 74 errors
+Technical Support --> Customer Service : 72 errors
+Customer Service --> Product Support : 60 errors
+Product Support --> Customer Service : 49 errors
+IT Support --> Product Support : 42 errors
+IT Support --> Customer Service : 32 errors
+Returns and Exchanges --> Product Support : 32 errors
+Returns and Exchanges --> Technical Support : 31 errors
+Product Support --> IT Support : 30 errors
+Sales and Pre-Sales --> Technical Support : 26 errors
+Billing and Payments --> Technical Support : 25 errors
+Service Outages and Maintenance --> Technical Support : 22 errors
+Customer Service --> IT Support : 22 errors
+Billing and Payments --> Customer Service : 20 errors
+Sales and Pre-Sales --> Product Support : 19 errors
+Customer Service --> Billing and Payments : 17 errors

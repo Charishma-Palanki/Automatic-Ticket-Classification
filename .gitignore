@@ -1,0 +1,13 @@
+venv/
+.venv/
+**/**pycache**/
+*.pyc
+.env
+
+# API secrets - never upload to GitHub
+
+**/secrets.toml
+
+# Model files - keep locally, don't upload to GitHub
+
+models/*.pkl

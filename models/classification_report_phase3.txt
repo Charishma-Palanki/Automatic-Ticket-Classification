@@ -1,0 +1,58 @@
+                                        precision    recall  f1-score   support
+
+           Arts & Entertainment/Movies       1.00      1.00      1.00        26
+            Arts & Entertainment/Music       1.00      1.00      1.00        30
+          Autos & Vehicles/Maintenance       1.00      0.97      0.98        29
+                Autos & Vehicles/Sales       1.00      1.00      1.00        37
+            Beauty & Fitness/Cosmetics       1.00      1.00      1.00        30
+     Beauty & Fitness/Fitness Training       1.00      1.00      1.00        29
+                  Billing and Payments       0.83      0.86      0.85       488
+            Books & Literature/Fiction       1.00      1.00      1.00        29
+        Books & Literature/Non-Fiction       1.00      1.00      1.00        32
+   Business & Industrial/Manufacturing       0.97      1.00      0.99        35
+                      Customer Service       0.66      0.65      0.65       742
+                   Finance/Investments       0.97      1.00      0.99        33
+              Finance/Personal Finance       0.94      1.00      0.97        31
+                Food & Drink/Groceries       0.97      0.97      0.97        33
+              Food & Drink/Restaurants       1.00      0.97      0.98        29
+                                 Games       1.00      1.00      1.00        30
+                       General Inquiry       0.53      0.60      0.56        67
+               Health/Medical Services       1.00      1.00      1.00        36
+                  Health/Mental Health       1.00      1.00      1.00        35
+        Hobbies & Leisure/Collectibles       1.00      1.00      1.00        32
+              Hobbies & Leisure/Crafts       1.00      1.00      1.00        31
+        Home & Garden/Home Improvement       0.97      1.00      0.99        36
+             Home & Garden/Landscaping       1.00      1.00      1.00        25
+                       Human Resources       0.65      0.75      0.70        92
+      IT & Technology/Hardware Support       0.97      1.00      0.98        29
+IT & Technology/Network Infrastructure       0.97      1.00      0.98        30
+   IT & Technology/Security Operations       0.90      1.00      0.95        37
+  IT & Technology/Software Development       1.00      1.00      1.00        26
+                            IT Support       0.61      0.63      0.62       573
+       Jobs & Education/Online Courses       0.97      1.00      0.99        33
+          Jobs & Education/Recruitment       1.00      0.97      0.98        29
+  Law & Government/Government Services       0.97      1.00      0.98        32
+         Law & Government/Legal Advice       1.00      1.00      1.00        29
+                                  News       0.95      1.00      0.97        39
+             Online Communities/Forums       1.00      0.97      0.99        35
+    Online Communities/Social Networks       0.97      1.00      0.98        32
+    People & Society/Culture & Society       1.00      1.00      1.00        28
+           Pets & Animals/Pet Services       0.97      1.00      0.99        39
+        Pets & Animals/Veterinary Care       1.00      1.00      1.00        36
+                       Product Support       0.66      0.63      0.64       896
+                           Real Estate       1.00      1.00      1.00        23
+                 Returns and Exchanges       0.59      0.68      0.63       244
+                   Sales and Pre-Sales       0.52      0.60      0.56       149
+         Science/Environmental Science       1.00      1.00      1.00        32
+                      Science/Research       1.00      1.00      1.00        31
+       Service Outages and Maintenance       0.65      0.83      0.73       191
+                   Shopping/E-commerce       0.94      0.97      0.96        34
+                Shopping/Retail Stores       1.00      1.00      1.00        28
+                                Sports       1.00      1.00      1.00        23
+                     Technical Support       0.74      0.66      0.70      1419
+    Travel & Transportation/Air Travel       0.94      1.00      0.97        30
+   Travel & Transportation/Land Travel       1.00      0.94      0.97        33
+
+                              accuracy                           0.74      6177
+                             macro avg       0.92      0.94      0.93      6177
+                          weighted avg       0.75      0.74      0.74      6177
